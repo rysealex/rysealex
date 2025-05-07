@@ -5,12 +5,11 @@
 <br/>
 
 <div align="center">
-  <strong>🎓 Computer Science @ Central Washington University</strong>
-  <strong>👨🏼‍💻 Aspiring Software Engineer</strong>
-  <strong>💡 Passionate about full-stack web applications</strong>
-</div>
+  <strong><h3>🎓 Computer Science @ Central Washington University</h3></strong>
+  <strong><h3>👨🏼‍💻 Aspiring Software Engineer<h3/></strong>
 
-<br/>
+  <strong><h3>💡 Passionate about full-stack web applications</h3></strong>
+</div>
 
 <div align="center">
   <h3>📫 Reach me at:</h3>
@@ -29,6 +28,7 @@
 
 <div align="center">
   <h2>⚙️Tools I Have Learned and Used</h2>
+  <br/>
 </div>
 
 <div align="center">
@@ -75,7 +75,11 @@
 
 <div align="center">
   <h2>📊 My Most Used Languages</h2>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rysealex&layout=donut&bg_color=0f2027,203a43,2c5364&text_color=ffffff&hide_title=true)]           (https://github.com/rysealex/github-readme-stats)
+  <br/>
+  <a href="https://github.com/rysealex/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rysealex&layout=donut&bg_color=0f2027,203a43,2c5364&text_color=ffffff&hide_title=true" alt="Top Langs" />
+  </a>
+  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rysealex&layout=donut&bg_color=0f2027,203a43,2c5364&text_color=ffffff&hide_title=true)]           (https://github.com/rysealex/github-readme-stats)-->
 </div>
 
 <br/>
