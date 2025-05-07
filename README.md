@@ -5,14 +5,17 @@
 <br/>
 
 <div align="center">
-  <strong>🎓 Computer Science @ Central Washington University</strong>
-  <strong>👨🏼‍💻 Aspiring Software Engineer</strong>
-  </br>
-  <strong>💡 Passionate about full-stack web applications</strong>
+  <h3>
+    <strong>🎓 Computer Science @ Central Washington University</strong>
+    <strong>👨🏼‍💻 Aspiring Software Engineer</strong>
+    </br>
+    </br>
+    <strong>💡 Passionate about full-stack web applications</strong>
+  </h3>
 </div>
 
 <div align="center">
-  <h3>📫 Reach me at:</h3>
+  <h4>📫 Reach me at:</h4>
   <p align="center">
     <a href="https://www.linkedin.com/in/alex-ryse" target="_blank" rel="noopener noreferrer">
       LinkedIn
