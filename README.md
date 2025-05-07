@@ -24,8 +24,6 @@
   </p>
 </div>
 
-<br/>
-
 <div align="center">
   <h2>⚙️Tools I Have Learned and Used</h2>
   <br/>
@@ -70,8 +68,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="45" height="45"/>      
   </p>
 </div> 
-
-<br/>
 
 <div align="center">
   <h2>📊 My Most Used Languages</h2>
