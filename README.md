@@ -5,10 +5,10 @@
 <br/>
 
 <div align="center">
-  <strong><h3>🎓 Computer Science @ Central Washington University</h3></strong>
-  <strong><h3>👨🏼‍💻 Aspiring Software Engineer<h3/></strong>
-
-  <strong><h3>💡 Passionate about full-stack web applications</h3></strong>
+  <strong>🎓 Computer Science @ Central Washington University</strong>
+  <strong>👨🏼‍💻 Aspiring Software Engineer</strong>
+  </br>
+  <strong>💡 Passionate about full-stack web applications</strong>
 </div>
 
 <div align="center">
