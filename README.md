@@ -1,21 +1,16 @@
-## Hi there 👋
+# Hi👋, I'm Alex
 
-<!--
-**rysealex/rysealex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Computer Science @ Central Washington University
+## 👨🏼‍💻 Aspiring Software Engineer
+## 💡 Passionate about full-stack web applications
 
-Here are some ideas to get you started:
+## 📫 Reach me at:
+<a href="https://www.linkedin.com/in/alex-ryse" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="40" height="40" alt="LinkedIn"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-<h2 align="middle">Tools I Have Learned and Used</h2>
+<h2 align="middle">⚙️Tools I Have Learned and Used</h2>
 
 <h3 align="middle">Programming Langauges</h3>
 <p align="middle">
@@ -51,5 +46,5 @@ Here are some ideas to get you started:
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="45" height="45"/>      
 </p>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rysealex)](https://github.com/rysealex/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rysealex&layout=donut)](https://github.com/rysealex/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rysealex&layout=donut&bg_color=0f2027,203a43,2c5364&text_color=ffffff)](https://github.com/rysealex/github-readme-stats)
+
