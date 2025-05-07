@@ -26,7 +26,6 @@
 
 <div align="center">
   <h2>⚙️Tools I Have Learned and Used</h2>
-  <br/>
 </div>
 
 <div align="center">
