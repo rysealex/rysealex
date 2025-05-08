@@ -2,8 +2,6 @@
   <h1>Hi👋, I'm Alex Ryse</h1>
 </div>
 
-<br/>
-
 <div align="center">
   <h3>
     <strong>🎓 Computer Science @ Central Washington University</strong>
