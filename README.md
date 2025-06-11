@@ -48,6 +48,7 @@
   <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45"/>
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="45" height="45"/>
+    <img src="https://img.icons8.com/ios/50/FFFFFF/express-js.png" width="45" height="45" />
     <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"  width="45" height="45"/>     
