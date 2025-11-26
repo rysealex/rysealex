@@ -8,7 +8,7 @@
     <strong>👨🏼‍💻 Aspiring Software Engineer</strong>
     </br>
     </br>
-    <strong>💡 Passionate about full-stack web applications</strong>
+    <strong>💡 Passionate about full-stack development</strong>
   </h3>
 </div>
 
