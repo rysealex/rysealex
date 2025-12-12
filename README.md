@@ -19,7 +19,7 @@
       LinkedIn
     </a>
     🙌
-    <a href="https://rysealex.github.io/my-portfolio" target="_blank" rel="noopener noreferrer">
+    <a href="https://alexryse.com" target="_blank" rel="noopener noreferrer">
       Portfolio
     </a>
   </p>
