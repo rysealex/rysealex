@@ -4,10 +4,11 @@
 
 <div align="center">
   <h3>
-    <strong>🎓 Computer Science @ Central Washington University</strong><br>
-    <strong>👨🏼‍💻 Aspiring Software Engineer</strong>
+    <strong>🎓 CS Graduate @ CWU</strong>
     <br><br>
-    <strong>💡 Passionate about full-stack development</strong>
+    <strong>📡 Incoming Labs Intern @ AT&T</strong>
+    <br><br>
+    <strong>🟪 Incoming MSCS @ UW Bothell</strong>
   </h3>
 </div>
 
