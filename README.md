@@ -8,7 +8,7 @@
     <br><br>
     <strong>📡 Incoming Labs Intern @ AT&T</strong>
     <br><br>
-    <strong>🟪 Incoming MSCS @ UW Bothell</strong>
+    <strong>🟪 Incoming MSCSSE @ UW Bothell</strong>
   </h3>
 </div>
 
