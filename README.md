@@ -6,7 +6,7 @@
   <h3>
     <strong>🎓 CS Graduate @ CWU</strong>
     <br><br>
-    <strong>📡 Incoming Labs Intern @ AT&T</strong>
+    <strong>📡 Software Engineer Intern @ AT&T Labs</strong>
     <br><br>
     <strong>🟪 Incoming MSCSSE @ UW Bothell</strong>
   </h3>
