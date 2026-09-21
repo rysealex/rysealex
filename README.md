@@ -4,11 +4,11 @@
 
 <div align="center">
   <h3>
-    <strong>🎓 CS Graduate @ CWU</strong>
+    <!-- <strong>🎓 CS Graduate @ CWU</strong> -->
+    <strong>🏫 MS CSSE @ UW Bothell</strong>
     <br><br>
-    <strong>📡 Software Engineer Intern @ AT&T Labs</strong>
+    <strong>📡 Prev. Software Engineer Intern @ AT&T Labs</strong>
     <br><br>
-    <strong>🟪 Incoming MSCSSE @ UW Bothell</strong>
   </h3>
 </div>
 
