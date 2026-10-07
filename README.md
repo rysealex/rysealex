@@ -5,9 +5,9 @@
 <div align="center">
   <h3>
     <!-- <strong>🎓 CS Graduate @ CWU</strong> -->
-    <strong>🏫 MS CSSE @ UW Bothell</strong>
+    <strong>🏫 MS CSSE @ UW</strong>
     <br><br>
-    <strong>📡 Prev. Software Engineer Intern @ AT&T Labs</strong>
+    <strong>📡 Previously @ AT&T Labs</strong>
     <br><br>
   </h3>
 </div>
